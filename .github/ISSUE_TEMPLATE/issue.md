@@ -1,6 +1,6 @@
 ---
 name: Issue
-about: ""
+about: Create a new development issue
 title: ""
 labels: ""
 assignees: ""
